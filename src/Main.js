@@ -1,6 +1,6 @@
 function Main() {
   return (
-    <div>
+    <div className="py-4 px-2">
       <h1>This is some header content</h1>
       <p>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod assumenda
